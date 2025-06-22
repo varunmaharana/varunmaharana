@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Varun Maharana</h1>
-<h3 align="center">A full stack web developer trying to learn cool things!</h3>
-
 <img src="./header.png" alt="varunmaharana_header" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunmaharana&label=Profile%20views&color=0e75b6&style=flat" alt="varunmaharana" /> </p>
