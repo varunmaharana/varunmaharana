@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/varun_maharana" target="blank"><img src="https://img.shields.io/twitter/follow/varun_maharana?logo=twitter&style=for-the-badge" alt="varun_maharana" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio Website](https://github.com/varunmaharana/portfolio-v1)
+- 🌐 Checkout My Portfolio at **[varunmaharana.com](https://varunmaharana.com)**
+
+- 🔭 I’m currently working on [Quick Todos App](https://github.com/varunmaharana/quick-todos)
 
 - 🌱 I’m currently learning **TypeScript, NextJS, NodeJS, MongoDB, ExpressJS**
 
