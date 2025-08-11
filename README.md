@@ -6,7 +6,7 @@
 
 - 🌐 Checkout My Portfolio at **[varunmaharana.com](https://varunmaharana.com)**
 
-- 🔭 I’m currently working on [Quick Todos App](https://github.com/varunmaharana/quick-todos)
+- 🔭 I’m currently working on [Quick Todos App](https://github.com/varunmaharana/quick-todos-backend)
 
 - 🌱 I’m currently learning **TypeScript, NextJS, NodeJS, MongoDB, ExpressJS**
 
