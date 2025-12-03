@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Quick Todos App](https://github.com/varunmaharana/quick-todos-backend)
 
-- 🌱 I’m currently learning **TypeScript, NextJS, NodeJS, MongoDB, ExpressJS**
+- 🌱 I’m currently learning **DevOps, TypeScript, NextJS, NodeJS, MongoDB, ExpressJS**
 
-- 💬 Ask me about **React, Vue, NuxtJS, Javascript, etc.**
+- 💬 Ask me about **NextJS, NodeJS, React, Vue, NuxtJS, Javascript, etc.**
 
 - 📫 How to reach me **varunmaharana14@gmail.com**
 
